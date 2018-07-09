@@ -1,0 +1,13 @@
+Package: com.asish.PopUpOnStart
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Asish <asishsharmagk1@gmail.com>
+Filename: /PopUpOnStart.deb
+Size: 5322024 
+MD5sum: 7adacb7ffbc23fdca4534a0241fdd9a2
+SHA1: f85729a37b4bb8f100861d79c791c3c645759a24
+SHA256: 8a720e62261657fcf5f76037352ebdd43062d2ab340b8f3f926e7dbfdca48f22
+Section: Tweeks
+Description: This tweek allows you to display anything on the startup pop, created by Asish Sharma
+Author: Asish <asishsharmagk1@gmail.com>
+Name: DisplayOnStartUp
