@@ -1,10 +1,10 @@
-Package: com.asish.hungryjacks
+Package: com.asish.hungryjacks_01_iphoneos-arm
 Version: 1.0
 Section: Tweaks
 Maintainer: Asish <asishsharmagk1@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/hungryjacks.deb
+Filename: ./debs/com.asish.hungryjacks_01_iphoneos-arm
 Size: 11,698,214
 MD5sum: 685bc3af33b0759ef3ba721e3e83cc32
 Description: This is a hungry jacks hack package
