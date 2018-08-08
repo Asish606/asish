@@ -1,13 +1,13 @@
-Package: com.asish.PopUpOnStart
+Package: com.asish.hungryjacks
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: Asish <asishsharmagk1@gmail.com>
-Filename: /PopUpOnStart.deb
-Size: 5322024 
-MD5sum: 7adacb7ffbc23fdca4534a0241fdd9a2
-SHA1: f85729a37b4bb8f100861d79c791c3c645759a24
-SHA256: 8a720e62261657fcf5f76037352ebdd43062d2ab340b8f3f926e7dbfdca48f22
+Filename: /hungryjacks.deb
+Size: 11,698,214 
+MD5sum: 685bc3af33b0759ef3ba721e3e83cc32
+SHA1: bcfa8199a24422e81b92087430f7e8dbec399827
+SHA256: f33f3da0c4424cc29eecdd7039f7a4935c6e3f282bb759e8968aba62f3ad8aab
 Section: Tweeks
-Description: This tweek allows you to display anything on the startup pop, created by Asish Sharma
+Description: This tweek allows you to select your price on the hungry jacks app, created by Asish Sharma
 Author: Asish <asishsharmagk1@gmail.com>
-Name: DisplayOnStartUp
+Name: hungryjacks
