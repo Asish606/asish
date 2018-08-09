@@ -1,6 +1,6 @@
 <package>
-	<id>hungryjacks.deb</id>
-	<name>Hungry Jacks</name>
+	<id>Hungry Jacks Hack</id>
+	<name>Created By Asish Sharma</name>
 	<version>1.0</version>
 	<compatibility>
 		<firmware>
@@ -31,7 +31,7 @@
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<version>1.0</version>
+		<version>1.2-1+debug</version>
 
 		<change>Second release</change>
 		<change>It has feature 1</change>

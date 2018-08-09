@@ -1,5 +1,5 @@
 Package: hungryjacks.deb
-Version: 1.0
+Version: 1.2-1+debug
 Section: Tweaks
 Maintainer: Asish <asishsharmagk1@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
