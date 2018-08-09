@@ -10,4 +10,19 @@ MD5sum: 09be0765aa1fa7b3d5b95debf1b751cb
 Description: This is a hungry jacks hack package
 Name: Hungryjacks
 Author:	Asish <asishsharmagk1@gmail>
-Depiction: https://asish606.github.io/asish/depictions/hungryjacks.deb
+Depiction: https://github.com/Asish606/asish/tree/master/depictions/hungryjacks.deb
+
+
+Package: inapp.deb
+Version: 1.0
+Section: Tweaks
+Maintainer: Asish <asishsharmagk1@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/inapp.deb
+Size: 2,894
+MD5sum: c141e59c8de5e743184946c7bb8c51a8
+Description: This is a hungry jacks hack package
+Name: inapp
+Author:	Asish <asishsharmagk1@gmail>
+Depiction: https://github.com/Asish606/asish/tree/master/depictions/inapp.deb
