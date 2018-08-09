@@ -6,7 +6,7 @@ Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/hungryjacks.deb
 Size: 11,411,560
-MD5sum: 09be0765aa1fa7b3d5b95debf1b751cb
+MD5sum: 4bcc3b2f9a982a6551a2c1bb62f263a2
 Description: This is a hungry jacks hack package
 Name: Hungryjacks
 Author:	Asish <asishsharmagk1@gmail>
