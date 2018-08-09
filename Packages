@@ -1,4 +1,4 @@
-Package: com.asish.hungryjacks_01_iphoneos-arm
+Package: com.asish.hungryjacks_01_iphoneos-arm.deb
 Version: 1.0
 Section: Tweaks
 Maintainer: Asish <asishsharmagk1@gmail.com>
@@ -11,4 +11,18 @@ Description: This is a hungry jacks hack package
 Name: Hungryjacks
 Author:	Asish <asishsharmagk1@gmail>
 Depiction: https://asish606.github.io/asish/depictions/com.asish.hungryjacks
+
+Package: com.vvvpl.hungryjackshack_1.2-1+debug_iphoneos-arm.deb
+Version: 1.0
+Section: Tweaks
+Maintainer: Asish <asishsharmagk1@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.vvvpl.hungryjackshack_1.2-1+debug_iphoneos-arm.deb
+Size: 11,411,560
+MD5sum: 09be0765aa1fa7b3d5b95debf1b751cb
+Description: This is a hungry jacks hack package
+Name: Hungryjacks
+Author:	Asish <asishsharmagk1@gmail>
+Depiction: https://asish606.github.io/asish/depictions/com.vvvpl.hungryjackshack_1.2-1+debug_iphoneos-arm
 
