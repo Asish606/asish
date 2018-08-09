@@ -26,3 +26,18 @@ Description: This is a hungry jacks hack package
 Name: inapp
 Author:	Asish <asishsharmagk1@gmail>
 Depiction: https://github.com/Asish606/asish/tree/master/depictions/inapp.deb
+
+
+Package: popup.deb
+Version: 1.0
+Section: Hack
+Maintainer: Asish <asishsharmagk1@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/popup.deb
+Size: 3,400,912
+MD5sum: 31de65c64ca73899f82ea44de60f2842
+Description: This is a Pop Up Hack
+Name: Hungryjacks
+Author:	Asish <asishsharmagk1@gmail>
+Depiction: https://github.com/Asish606/asish/tree/master/depictions/popup
