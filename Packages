@@ -5,7 +5,7 @@ Maintainer: Asish <asishsharmagk1@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/hungryjacks.deb
-Size: 11,411,560
+Size: 11411560
 MD5sum: 4bcc3b2f9a982a6551a2c1bb62f263a2
 Description: This is a hungry jacks hack package
 Name: Hungryjacks
@@ -20,7 +20,7 @@ Maintainer: Asish <asishsharmagk1@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/inapp.deb
-Size: 2,894
+Size: 2894
 MD5sum: c141e59c8de5e743184946c7bb8c51a8
 Description: This is a hungry jacks hack package
 Name: inapp
@@ -35,9 +35,25 @@ Maintainer: Asish <asishsharmagk1@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/popup.deb
-Size: 3,400,912
+Size: 3400912
 MD5sum: 31de65c64ca73899f82ea44de60f2842
 Description: This is a Pop Up Hack
-Name: Hungryjacks
+Name: PopUp
 Author:	Asish <asishsharmagk1@gmail>
 Depiction: https://github.com/Asish606/asish/tree/master/depictions/popup
+
+
+
+Package: com.crazyhater.callproxi
+Name: CallPro
+Depends: mobilesubstrate
+Version: 0.5
+Architecture: iphoneos-arm
+Description: Currently in beta, aspires to be an advanced, fully Bio-Protected call manager for iOS 11! Secures calls when you hand you phone to someone during calls
+Maintainer: Samar
+Author: Samar
+Section: Tweaks
+Filename: ./debs/com.crazyhater.callproxi.deb
+Size: 1344
+MD5sum: 5357d88912d71d57f4a4757f9ed69b18 
+Depiction: https://github.com/Asish606/asish/tree/master/depictions/callproxi
